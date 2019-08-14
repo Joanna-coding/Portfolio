@@ -1,0 +1,204 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* outline: 1px dotted red; */
+
+}
+
+#box{
+    width: 1000px;
+    position: relative;
+    left: 150px;
+    margin: 0px auto;
+    
+}
+
+
+#wrapper{
+  
+    margin-bottom: 0px;
+    background-color: #6b535e;
+   
+}
+
+#header{
+  
+    height: 70px;;
+    background-color:lightgrey;
+    position: relative;
+    left: 1px;
+   
+}
+
+#Jay{
+    font-family: Comic Sans MS, cursive, sans-serif;
+    font-size: 3em;
+    position: absolute;
+    top:5px;
+    left: 10px;
+}
+
+#Master{
+    float: right;
+    position: relative;
+    top: 20px;
+    right: 15px;
+    font-size: 1.5em;
+    
+}
+
+#first{
+    display: inline-block;
+    height: 400px;
+}
+
+
+#img{
+    display: inline-block;
+    /* height: 350px;
+    width: 380px; */
+    float: left;
+    border:  4px lightgrey solid;
+    position: relative;
+    top: 10px;
+    left:15px;
+   
+}
+
+#about{
+    margin-left: 6px;
+    display: inline-block;
+    width: 490px;
+    
+  
+    position: relative;
+    top: 12px;
+    left:18px;
+}
+
+#A{
+    background-color: gray;
+    height: 50px;
+    padding-left: 10px;
+}
+
+#word{
+    background-color: white;
+    padding: 10px 10px 18px 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#second{
+    display: inline-block;
+    height: 480px;
+   
+}
+
+#la-mode{
+    display: inline-block;
+    height: 550px;
+    width: 300px;
+    border: 1px black solid;
+    position: relative;
+    top: -55px;
+    left: 20px;
+   
+}
+
+#color{
+    background-color: gray;
+    height: 40px;
+    padding-left: 10px;
+    padding-top: 5px;
+   
+}
+
+/* #small-pic{
+    height: 130px;
+    display: inline-block;
+} */
+
+#short-word{
+    background-color: lightgray;
+    height: 150px;
+    margin: -10px 0px;
+}
+
+#size-word{
+    padding-left: 10px;
+    padding-top: 8px;
+}
+
+#icon{
+
+    height: 200px;
+    background-color: lightgrey;
+}
+
+.png{ 
+    padding-left: 5px;
+    padding-top: 10px;
+    height: 46px;
+    width: 40px;
+
+}
+
+
+
+#family{
+    display: inline-block;
+    width: 300px;
+    position: relative;
+    left: 40px;
+    top: -55px;
+}
+
+#five-eleven{
+    display: inline-block;
+    width: 300px;
+    position: relative;
+    left: 60px;
+    top: -55px;
+   
+}
+
+
+
+button{
+
+    background-color: green;
+    font-size: 18px;
+     margin-left: 100px;
+     margin-top: 30px;
+     border-radius: 10px;
+     text-align: center;
+}
+
+#last{
+    background-color: lightgrey;
+    height: 20px;
+}
+
+
+#footer{
+    background-color:lightgray;
+    height: 80px;
+   
+}
+
+#infor{
+   padding-top: 20px;
+   padding-left: 400px;
+    /* height: 40px; */
+    /* display: inline-block; */
+}
+
+#final{
+    position: relative;
+    left: 320px;
+    top: 10px;
+}
+
+
+
